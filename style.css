@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: #414141;
+}
+h1,h5{
+    color: aqua;
+    text-align: center;
+}
+
